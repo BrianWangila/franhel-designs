@@ -1,0 +1,44 @@
+* {
+  
+}
+body {
+
+min-height: 80vh;
+/* border: 1px solid red; */
+}
+
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+section{
+  background-image: url(./Image/pexels-photo-271805.jpeg);
+  width: 100%;
+}
+.home {
+  margin: 120px 0 0 30px;
+  padding-bottom: 120px;
+}
+.home p {
+  width: 30%;
+}
+.navlist{
+  display: flex;
+  list-style: none;
+}
+.navlist li{
+  margin-right: 20px;
+}
+/* .product-images {
+  display: flex;
+  flex-direction: column;
+}
+.product-images img {
+  height: 150px;
+  width: 150px;
+}
+.row {
+  display: flex;
+justify-content:space-around;
+} */
