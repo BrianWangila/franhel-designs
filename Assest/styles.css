@@ -1,6 +1,5 @@
 
 body {
-min-height: 80vh;
 /* border: 1px solid red; */
 }
 .logo {
@@ -74,6 +73,28 @@ section {
   background-color: #7b7777;
   margin: 20px 0 20px;
   
+}
+
+/* Tes imonials*/
+
+.work{
+  background-color: #7b7777;
+}
+
+.row{
+  display: flex;
+  margin: 20px;
+  margin-bottom: 20px;
+
+}
+
+.row img{
+  opacity: 0.8;
+}
+
+.contact{
+  background-color: #03010C;
+  color: white;
 }
 
 
