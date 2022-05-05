@@ -1,19 +1,15 @@
-* {
-  
-}
-body {
 
+body {
 min-height: 80vh;
 /* border: 1px solid red; */
 }
-
 .nav{
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 section{
-  background-image: url(./Image/pexels-photo-271805.jpeg);
+  background-image: url(./Image/home.webp);
   width: 100%;
 }
 .home {
@@ -30,6 +26,38 @@ section{
 .navlist li{
   margin-right: 20px;
 }
+.column {
+  display: flex;
+}
+.column img {
+  height: 200px;
+  width: 200px;
+  margin: 15px;
+}
+
+  /* }
+
+.column {
+  display: flex;
+  padding: 5px;
+}
+.row {
+  display: flex;
+
+}
+.column img {
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+}
+.about img {
+  width: 350px;
+  height: 400px;
+  
+}
+.img {
+  
+} */
 /* .product-images {
   display: flex;
   flex-direction: column;
