@@ -97,6 +97,16 @@ section {
   color: white;
 }
 
+.work p{
+  position: absolute;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding-top: 150px;
+  font-size: large;
+ 
+}
+
 
 
   /* }
